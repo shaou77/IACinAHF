@@ -3,4 +3,6 @@
 ### The R code for
 
 
-Could Intra-arterial Catheters Improve Outcome of Hemodynamically Stable Patients with Acute Heart Failure in ICU: A Retrospective Study
+# Association between intra-arterial catheterization and mortality of acute heart failure patients without shock in ICU: A retrospective study #
+https://doi.org/10.1016/j.ahjo.2024.100432
+https://www.sciencedirect.com/science/article/pii/S2666602224000752?via%3Dihub
